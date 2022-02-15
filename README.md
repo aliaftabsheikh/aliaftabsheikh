@@ -1,9 +1,14 @@
-<p align="center">
- <a><img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47k6052alc3n7ea8fkjkg8sbvzg6pj6gfbd7an2j3j&amp;rid=giphy.gif&amp;ct=s" alt="Pc Coding Sticker by IYKRA.com" style="width: 500px; height: 500px; left: 0px; top: 0px;"></a>
 
+<p align="center">
+<a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
 </p>
+
+
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali Aftab Sheikh</h1>
- <h3 align="center">I'm a passionate MERN Stack Developer & Freelancer from Pakistan.</h3>
+ <h3 align="center">Freelancer from Pakistan.</h3>
+ <p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught%20Programmer;Node%20Js%20Developer;1years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
+</p>
  
  ## 🙋‍♂️ About Me
 
