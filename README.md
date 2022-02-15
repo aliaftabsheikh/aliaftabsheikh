@@ -62,12 +62,8 @@
     <img src="https://komarev.com/ghpvc/?username=aliaftabsheikh">
 </a>
 <a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
- 
-<<<<<<< HEAD
+
+
  <br/>
 
  <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
-=======
- 
- 
->>>>>>> a248af52251a50b1d79f9d824921715e6341cc10
