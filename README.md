@@ -39,6 +39,9 @@
   <br/>
 <br/>
 
+ ## 📈 Contribution Graph
+ 
+   <br/>
 <a href="https://github.com/aliaftabsheikh"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aliaftabsheikh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
@@ -60,6 +63,11 @@
 </a>
 <a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
  
+<<<<<<< HEAD
  <br/>
 
  <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
+=======
+ 
+ 
+>>>>>>> a248af52251a50b1d79f9d824921715e6341cc10
