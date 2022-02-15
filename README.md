@@ -1,4 +1,7 @@
+<p align="center">
+ <a><img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47k6052alc3n7ea8fkjkg8sbvzg6pj6gfbd7an2j3j&amp;rid=giphy.gif&amp;ct=s" alt="Pc Coding Sticker by IYKRA.com" style="width: 500px; height: 500px; left: 0px; top: 0px;"></a>
 
+</p>
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ali Aftab Sheikh</h1>
  <h3 align="center">I'm a passionate MERN Stack Developer & Freelancer from Pakistan.</h3>
  
