@@ -60,5 +60,6 @@
 </a>
 <a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
  
- 
- 
+ <br/>
+
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
