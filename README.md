@@ -65,6 +65,9 @@
 
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/aliaftabsheikh.svg)](https://user-badge.committers.top/pakistan/aliaftabsheikh)
+
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aliaftabsheikh">
