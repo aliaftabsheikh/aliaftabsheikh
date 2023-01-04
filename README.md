@@ -47,12 +47,12 @@
   <br/>
 <br/>
 
- ## 📈 Contribution Graph
+<!--  ## 📈 Contribution Graph -->
  
-   <br/>
+<!--    <br/>
 <a href="https://github.com/aliaftabsheikh"><img alt="Ali Aftab Sheikh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aliaftabsheikh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<br/> -->
 <br/>
 
 ## Connect with me:
