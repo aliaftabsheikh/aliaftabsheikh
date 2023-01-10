@@ -19,6 +19,9 @@
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
  
  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+ 
  ## 🚀 Technologies I know
 
 - HTML, CSS, Javascript, EcmaScript
