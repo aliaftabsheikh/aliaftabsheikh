@@ -55,20 +55,13 @@
   <br/>
 <br/>
 
-<!--  ## 📈 Contribution Graph -->
- 
-<!--    <br/>
-<a href="https://github.com/aliaftabsheikh"><img alt="Ali Aftab Sheikh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aliaftabsheikh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/> -->
-<!-- <br/> -->
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/muhammad-ali-207"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/aliaftabsheikh"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aliaftabsheikh"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aliaftabsheikh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://web.facebook.com/profile.php?id=100014237167705"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
