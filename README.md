@@ -20,7 +20,7 @@
  ## 🙋‍♂️ About Me
 
 - 🎓 UnderGraduation in BS-Commerce,
-- 🌱 I’m currently learning **Web 3.0 & BlockChain Technologies**
+- 🌱 I’m currently learning **Web 3.0 & Metaverse Technologies**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **aliaftabsheikh1@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
@@ -29,13 +29,13 @@
  
  ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript, EcmaScript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- HTML, CSS, Javascript, EcmaScript, Typescript
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs, NextJs)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Ant Design, Materialize, Bootstrap, Scss, Styled components)
 - Databases (Firebase Firestore, MongoDB)
 - Project Management (git, Github)
 - Design (Figma, Canva)
-- Deployment (Firebase, Heroku, Netlify)
+- Deployment (Firebase, Heroku, Netlify, Vercel)
 <br/>
  
  <p align="center">
