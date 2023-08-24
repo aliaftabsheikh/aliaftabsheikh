@@ -55,9 +55,6 @@
   <br/>
 <br/>
 
-<div align="center">
-<img src="https://wakatime.com/share/@9625f0b8-819f-4467-94c4-26cf5932e81c/0f2acb14-845e-48e8-9f52-43707ac1f0c1.svg" width="90%"/>
-</div>
 
 
 ## Connect with me:
